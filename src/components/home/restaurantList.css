@@ -1,0 +1,18 @@
+ul{
+  clear:both;
+}
+
+li{
+  list-style: none;
+  float: left;
+  margin: 0 3px;
+  cursor: pointer;
+}
+
+li b{
+  cursor: default;
+}
+
+.clearBoth{
+  clear:both;
+}

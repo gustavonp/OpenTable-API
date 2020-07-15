@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "OpenTable Reservations Api",
+  "name": "React Redux exercise",
   "icons": [
     {
       "src": "favicon.ico",
